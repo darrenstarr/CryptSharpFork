@@ -18,10 +18,9 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #endregion
 
 using System;
-using CryptSharp.Internal;
-using CryptSharp.Utility;
+using BtmI2p.CryptSharp.Internal;
 
-namespace CryptSharp
+namespace BtmI2p.CryptSharp
 {
     /// <summary>
     /// The key type for options.

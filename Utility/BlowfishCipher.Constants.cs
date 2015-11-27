@@ -17,7 +17,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 */
 #endregion
 
-namespace CryptSharp.Utility
+namespace BtmI2p.CryptSharp.Utility
 {
 	public partial class BlowfishCipher
 	{

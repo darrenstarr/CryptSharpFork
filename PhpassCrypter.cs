@@ -21,10 +21,10 @@ using System;
 using System.Security.Cryptography;
 using System.Text;
 using System.Text.RegularExpressions;
-using CryptSharp.Internal;
-using CryptSharp.Utility;
+using BtmI2p.CryptSharp.Internal;
+using BtmI2p.CryptSharp.Utility;
 
-namespace CryptSharp
+namespace BtmI2p.CryptSharp
 {
     /// <summary>
     /// PHPass crypt. Used by WordPress. Variants support phpBB and Drupal 7+.

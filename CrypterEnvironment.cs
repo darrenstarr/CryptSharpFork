@@ -21,10 +21,10 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
-using CryptSharp.Internal;
-using CryptSharp.Utility;
+using BtmI2p.CryptSharp.Internal;
+using BtmI2p.CryptSharp.Utility;
 
-namespace CryptSharp
+namespace BtmI2p.CryptSharp
 {
     /// <summary>
     /// Lets you customize the list of crypt algorithms your program will accept.

@@ -17,10 +17,9 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 */
 #endregion
 
-using System;
-using CryptSharp.Internal;
+using BtmI2p.CryptSharp.Internal;
 
-namespace CryptSharp.Utility
+namespace BtmI2p.CryptSharp.Utility
 {
     partial class BaseEncoding
     {

@@ -18,12 +18,11 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #endregion
 
 using System;
-using System.Diagnostics;
 using System.IO;
 using System.Security.Cryptography;
-using CryptSharp.Internal;
+using BtmI2p.CryptSharp.Internal;
 
-namespace CryptSharp.Utility
+namespace BtmI2p.CryptSharp.Utility
 {
     /// <summary>
     /// Implements the PBKDF2 key derivation function.

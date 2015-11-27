@@ -17,13 +17,10 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 */
 #endregion
 
-using System;
-using System.Collections.Generic;
 using System.Runtime.CompilerServices;
-using System.Text;
-using CryptSharp.Internal;
+using BtmI2p.CryptSharp.Internal;
 
-namespace CryptSharp.Utility
+namespace BtmI2p.CryptSharp.Utility
 {
     /// <summary>
     /// Provides comparison methods resistant to timing attack.

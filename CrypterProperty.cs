@@ -17,7 +17,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 */
 #endregion
 
-namespace CryptSharp
+namespace BtmI2p.CryptSharp
 {
     /// <summary>
     /// Properties inherent to particular crypt algorithms. 

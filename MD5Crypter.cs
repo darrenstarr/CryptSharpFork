@@ -21,10 +21,10 @@ using System;
 using System.Security.Cryptography;
 using System.Text;
 using System.Text.RegularExpressions;
-using CryptSharp.Internal;
-using CryptSharp.Utility;
+using BtmI2p.CryptSharp.Internal;
+using BtmI2p.CryptSharp.Utility;
 
-namespace CryptSharp
+namespace BtmI2p.CryptSharp
 {
     // See http://www.vidarholen.net/contents/blog/?p=32 for algorithm details.
     // One word of caution: In this post, it says "Pick out the bytes in this order: ...".

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CryptSharp
+﻿namespace BtmI2p.CryptSharp
 {
     /// <summary>
     /// Modified versions of the PHPass crypt algorithm.

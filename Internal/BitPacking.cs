@@ -17,7 +17,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 */
 #endregion
 
-namespace CryptSharp.Internal
+namespace BtmI2p.CryptSharp.Internal
 {
     static class BitPacking
     {

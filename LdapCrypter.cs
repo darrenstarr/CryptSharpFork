@@ -21,9 +21,9 @@ using System;
 using System.Security.Cryptography;
 using System.Text;
 using System.Text.RegularExpressions;
-using CryptSharp.Internal;
+using BtmI2p.CryptSharp.Internal;
 
-namespace CryptSharp
+namespace BtmI2p.CryptSharp
 {
     /// <summary>
     /// LDAP schemes such as {SHA}.

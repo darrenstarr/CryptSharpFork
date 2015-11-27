@@ -20,7 +20,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 using System;
 using System.Security.Cryptography;
 
-namespace CryptSharp.Internal
+namespace BtmI2p.CryptSharp.Internal
 {
 	static class Security
     {

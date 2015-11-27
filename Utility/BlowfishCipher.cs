@@ -27,9 +27,9 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 using System;
 using System.Collections.Generic;
 using System.Text;
-using CryptSharp.Internal;
+using BtmI2p.CryptSharp.Internal;
 
-namespace CryptSharp.Utility
+namespace BtmI2p.CryptSharp.Utility
 {
     /// <summary>
     /// Performs low-level encryption and decryption using the Blowfish cipher.

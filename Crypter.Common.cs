@@ -19,7 +19,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 using System.Collections.Generic;
 
-namespace CryptSharp
+namespace BtmI2p.CryptSharp
 {
     partial class Crypter
     {

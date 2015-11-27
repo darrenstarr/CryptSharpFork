@@ -19,7 +19,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 using System;
 
-namespace CryptSharp.Internal
+namespace BtmI2p.CryptSharp.Internal
 {
     static class Check
     {

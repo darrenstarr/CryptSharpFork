@@ -20,9 +20,9 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 using System;
 using System.Security.Cryptography;
 using System.Threading;
-using CryptSharp.Internal;
+using BtmI2p.CryptSharp.Internal;
 
-namespace CryptSharp.Utility
+namespace BtmI2p.CryptSharp.Utility
 {
     // See http://www.tarsnap.com/scrypt/scrypt.pdf for algorithm details.
     // TODO: Test on a big-endian machine and make sure it works.
